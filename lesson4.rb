@@ -1,0 +1,2 @@
+name = "masaya"
+puts name
